@@ -1,0 +1,12 @@
+:root {
+  body{ 
+    margin: 0;
+    background-image: url('./assets/fundo-tela.png');
+  }
+
+html,body,h1, button{
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 400;
+  }
+}
+

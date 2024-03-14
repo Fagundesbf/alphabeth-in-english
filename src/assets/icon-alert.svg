@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 56" width="58" height="56">
+	<title>icon-music</title>
+	<defs>
+		<image  width="58" height="56" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADoAAAA4CAMAAACbrRsRAAAAAXNSR0IB2cksfwAAAQJQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////eRL3UwAAAFZ0Uk5TAAIhUZXL6/+TIAEcifsYurhwbQzPzQgU5RIR7wXg3gSjoTo5A2kN/ZwjIkVCYGX1TEvIwws0dayu2O3zqzbKxGZGQ9EkoA5uajym4fEJcRu8GR6SXuMAtjo6AAABiElEQVR4nKXXZ1PCQBAG4EVMVimiIBYIAhEF7L2hYsGuqJT//1cMMoEkdyS3m/fzPTOZy97eHoCQyFR0WtNxFF2bic7GxHVC4okkSpJMxAPgXErmhpmf84GxhclwkPTEz84s+kvE7JJcLutBEnFlVSZz+WBpbXdOlEZBRSKuFQVaUpOIZa80VSXiultWFLbIjl5x0bS6RNxwys0qhVYzDlqmSMTaWNZpEnFrRAML0BvNlttUibgzlEWlCnQnP/xBu3SJuPdfDfscmjQsesCRiIcWPeLRY6s18CTiCZxyqUkrfGfO4JxLLyDLpZdwxaUNPtXpp8aOxt+m6zA/54ZLzTCFCLc82Qx36Ir8o85rMHdh2xrc0+mD3YgfqXLUwqFFpXX2dfXkuOmeqxTpuiThhUJf3QMB4cR7BgJ4U6cmePKuKkteCcaHmiwYAoVcQ0V+SgY9a7xU2Cr5eKk01H7JpTVKt/1l2+8F8P0zGaZ+feAgna782dDtBMBBIq1erdkfq36z1mtFxHV/EJVcpwIcbUwAAAAASUVORK5CYII="/>
+		<image  width="4" height="38" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAmBAMAAAARuydwAAAAAXNSR0IB2cksfwAAAB5QTFRFObjVQL+/O7LVPLDVO7LUPLPUN7bRM7PMAAAAO7PVc9nSRwAAAAp0Uk5TEgT/N96JHAoAWzm7z7oAAAAsSURBVHicY2BgZFBSJhk5KTMEqTEEKUCRkTqDkQYIFVswdHRAkekELBobJAC+oQ6tYK5fNAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="fundio" href="#img1" x="0" y="0"/>
+	<use id="alert" href="#img2" x="27" y="9"/>
+</svg>

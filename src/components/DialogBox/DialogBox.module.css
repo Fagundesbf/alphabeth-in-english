@@ -1,0 +1,28 @@
+.dialogContainer{
+    background:#3bb2d5 ;
+    min-height: 80px;
+    width: 260px;
+    border: 2px solid #fff;
+    border-radius: 7px;
+    color: #fff;
+    
+    ul{
+        list-style-type: none;
+        margin-right: 13px;
+        padding-inline-start: 13px;
+        li{
+            display: flex;
+            justify-content:flex-end;
+            align-items: center;
+            padding: 12px;
+            span{
+                margin-right: 10px;
+                font-size: 1.7rem;
+            }
+        }
+    }
+    .borderUl{
+        border-bottom: 2px solid #fff;
+    }
+}
+
